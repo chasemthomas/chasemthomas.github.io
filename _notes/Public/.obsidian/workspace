@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ffacacc48b8a516f",
+        "id": "4d734c4a07c0cead",
         "type": "leaf",
         "active": true,
         "state": {
@@ -68,5 +68,8 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Hello World.md",
+    "Hidden Note.md"
+  ]
 }
