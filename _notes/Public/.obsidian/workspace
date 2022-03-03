@@ -1,33 +1,30 @@
 {
   "main": {
-    "id": "2bcb03cdf6c7f7d2",
+    "id": "76423e8fcbd292a7",
     "type": "split",
     "children": [
       {
-        "id": "f48bc61eaa07059c",
+        "id": "ffacacc48b8a516f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Hello World.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "14353c46581345d1",
+    "id": "addd56fc25e5b830",
     "type": "split",
     "children": [
       {
-        "id": "b1176a05fcbfbf20",
+        "id": "c06c92410a6005a2",
         "type": "tabs",
         "children": [
           {
-            "id": "3b1031c2dcd2bc8d",
+            "id": "7661fd22bdc052aa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +32,7 @@
             }
           },
           {
-            "id": "1f12262a9f28d455",
+            "id": "05bbea8287ebda4c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,15 +46,15 @@
     "width": 300
   },
   "right": {
-    "id": "5d8bf7f5b3e92b49",
+    "id": "999c6ba74aef7650",
     "type": "split",
     "children": [
       {
-        "id": "3dfdb22c6286fa8e",
+        "id": "10585f9a0b1f3fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "da303f486aa06b11",
+            "id": "4ec040e16f76341e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -71,7 +68,5 @@
     "width": 300,
     "collapsed": true
   },
-  "lastOpenFiles": [
-    "Untitled.md"
-  ]
+  "lastOpenFiles": []
 }
