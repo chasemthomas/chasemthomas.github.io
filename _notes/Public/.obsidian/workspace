@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Hello World.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -70,6 +73,8 @@
   },
   "lastOpenFiles": [
     "Hello World.md",
-    "Hidden Note.md"
+    "Hidden Note.md",
+    "Markdown Rendered.md",
+    "Welcome to the garden.md"
   ]
 }
